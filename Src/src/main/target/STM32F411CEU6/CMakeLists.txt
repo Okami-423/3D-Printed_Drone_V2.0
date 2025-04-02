@@ -1,0 +1,1 @@
+target_stm32f411xe(STM32F411CEU6 HSE_MHZ 25)
