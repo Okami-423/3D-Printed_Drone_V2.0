@@ -8,15 +8,17 @@ INAV: https://github.com/iNavFlight/inav
 
 Configurator: https://github.com/iNavFlight/inav-configurator/
 
-<img width="4000" alt="Screenshot 2025-04-02 at 3 46 05 PM" src="https://github.com/user-attachments/assets/c449d0cf-097c-431a-b54d-3c0f86fb51a4" /><br/>
+<img width="1920" height="1080" alt="Drone" src="https://github.com/user-attachments/assets/7688b987-2c3e-49de-86af-084a08d62f20" />
 
 
-<img width="4000" alt="Screenshot 2025-04-02 at 3 46 36 PM" src="https://github.com/user-attachments/assets/e00bec72-4a81-4cfb-bf64-7a62fd920b36" /><br/>
+<img width="1280" height="720" alt="1" src="https://github.com/user-attachments/assets/23190963-c221-4b7a-b5c9-48868b746dd4" /> <br/>
+
+<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/234b955f-0de0-4a84-820b-0520bc451ce2" /> <br/>
+
+<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/3979dbef-ca03-48b8-b6aa-b832ca85fa4c" /> <br/>
+
+<img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/536e0c7a-91bd-4d0a-9819-465caea747f7" /> <br/>
 
 
 
-![IMG_0456](https://github.com/user-attachments/assets/23190963-c221-4b7a-b5c9-48868b746dd4)
-![IMG_0457](https://github.com/user-attachments/assets/234b955f-0de0-4a84-820b-0520bc451ce2)
-![IMG_0460](https://github.com/user-attachments/assets/3979dbef-ca03-48b8-b6aa-b832ca85fa4c)
-![IMG_0461](https://github.com/user-attachments/assets/536e0c7a-91bd-4d0a-9819-465caea747f7)
 
